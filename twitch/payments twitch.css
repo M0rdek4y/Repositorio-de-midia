@@ -1,0 +1,35 @@
+
+      /* PLACEHOLDER:
+      ========================================================================
+      Add css below - no support for LESS, SASS or other pre-processors yet
+
+      you can access design color variables using css variables
+      color: var(--header-color); for example
+      all options are: --header-color, --body-color, --bg-color, --section-bg-color, --input-border-color, --button-color, --popup-bg-color, --button-color, --section-border-color, --section-border-radius, --section-max-width, --section-vertical-padding
+      */
+      #root-component {
+        /* this is the root element */
+      }
+
+      .site-canvas-body#b9f764ab-d633-4930-ac88-e009b9ec9c7d {
+        /* this is the body for page with id b9f764ab-d633-4930-ac88-e009b9ec9c7d; */
+      }
+
+      .navbar {
+        /* navigation bar on top */
+      }
+
+      .site-canvas--tablet .navbar {
+        /* navbar in tablet mode */
+      }
+
+      .site-canvas--mobile .navbar {
+        /* navbar in mobile mode */
+      }
+
+      .component-container#s12364ab-d633-4930-ac88-e009b9ec9c7d {
+        /* example component-scoped styling
+        you can find the id in component settings popup */
+      }
+      /* ======================================================================== */
+  
