@@ -1,4 +1,4 @@
-# Apenas um repositório para as mídias
+# Repositório de Mídias Pessoais
 - Repositório de Midias
 
 ## Direitos de uso
