@@ -1,1 +1,2 @@
 Bind keyboard "0" "chapeu 8; oculos 15 7; jaqueta 1 7; blusa 130; calca 157; maos 0; sapatos 130 2; acessorios 0; mascara 0; mochila 0;"
+Bind keyboard "0" "chapeu 7; oculos 15 7; jaqueta 13; blusa 130; calca 41; maos 0; sapatos 130 2; acessorios 0; mascara 0; mochila 0;"
